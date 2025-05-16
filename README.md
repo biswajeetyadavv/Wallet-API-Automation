@@ -51,7 +51,7 @@ pytest
 
 ---
 
-## 🤝 Need Help / Contributions
+## 🤝 Contributions
 
 Contributions are welcome! Here’s where you can help:
 
